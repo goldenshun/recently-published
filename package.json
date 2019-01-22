@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/goldenshun/recently-published#readme",
   "dependencies": {
-    "commander": "2.19.0"
+    "commander": "2.19.0",
+    "npm": "6.6.0"
   }
 }
