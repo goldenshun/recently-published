@@ -1,0 +1,22 @@
+{
+  "name": "recently-published",
+  "version": "0.0.1",
+  "description": "Lists npm packages that were recently published.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldenshun/recently-published.git"
+  },
+  "author": "Sean Connolly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goldenshun/recently-published/issues"
+  },
+  "homepage": "https://github.com/goldenshun/recently-published#readme",
+  "dependencies": {
+    "commander": "2.19.0"
+  }
+}
